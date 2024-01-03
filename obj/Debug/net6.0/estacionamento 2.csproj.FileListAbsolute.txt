@@ -1,0 +1,15 @@
+C:\Developmet\Projetos\C#\estacionamento 2\bin\Debug\net6.0\estacionamento 2.exe
+C:\Developmet\Projetos\C#\estacionamento 2\bin\Debug\net6.0\estacionamento 2.deps.json
+C:\Developmet\Projetos\C#\estacionamento 2\bin\Debug\net6.0\estacionamento 2.runtimeconfig.json
+C:\Developmet\Projetos\C#\estacionamento 2\bin\Debug\net6.0\estacionamento 2.dll
+C:\Developmet\Projetos\C#\estacionamento 2\bin\Debug\net6.0\estacionamento 2.pdb
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\estacionamento 2.csproj.AssemblyReference.cache
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\estacionamento 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\estacionamento 2.AssemblyInfoInputs.cache
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\estacionamento 2.AssemblyInfo.cs
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\estacionamento 2.csproj.CoreCompileInputs.cache
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\estacionamento 2.dll
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\refint\estacionamento 2.dll
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\estacionamento 2.pdb
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\estacionamento 2.genruntimeconfig.cache
+C:\Developmet\Projetos\C#\estacionamento 2\obj\Debug\net6.0\ref\estacionamento 2.dll
